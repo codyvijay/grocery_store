@@ -1,0 +1,19 @@
+
+  {
+    "name": "DailyBread",
+    "short_name": "DailyBread",
+    "description": "One app for your Grocery needs",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#202123",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/static/img/applogo.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      }
+    ]
+  }
+  

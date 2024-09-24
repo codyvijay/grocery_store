@@ -1,0 +1,143 @@
+.right {
+    float: right;
+  }
+
+.center { text-align:center; }
+
+.left {float: left;}
+
+.carousels{
+  width: 2000px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 30px; 
+}
+
+.loginimg{
+
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+
+}
+
+.pgcolor{
+  background: linear-gradient(to bottom, #FEEAE3, #92EDE4);
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.offline{
+  background: black;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.alert{
+  width:350px;
+}
+
+.alpha{
+
+  width:100%;
+  width:100%;
+  max-width: 500px;
+  max-height: 400px;
+  min-width: 250px;
+  min-height: 250px;
+  object-fit: cover;
+}
+
+.admin-home-image{
+  
+  max-width:500px;
+  max-height: 300px;
+  object-fit: cover;
+
+}
+
+.admin-home-card{
+  
+  max-width:400px;
+  max-height: 600px;
+  object-fit: cover;
+
+}
+
+
+.login_img{
+
+  width: 80%;
+  height: 80%;
+  min-width:300px;
+  min-height:300px;
+  object-fit: cover;
+
+}
+
+.cng_pwd_img{
+
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+
+}
+
+.beta{
+  width:100%;
+  width:100%;
+  max-width: 400px;
+  max-height: 400px;
+  min-width: 250;
+  min-height: 250px;
+  object-fit: cover;
+
+}
+
+.custom-toast {
+  background-color: rgb(1, 65, 129);
+  color:aliceblue;
+}
+
+.toast {
+  font-size: 18px; /* Replace with your desired font size */
+  padding: 10px; /* Adjust padding as needed */
+}
+
+
+.rounded-image {
+  border-radius: 50%; 
+  width:50%
+  
+}
+
+.imgt {
+  max-width: 200px; 
+  max-height: 200px; 
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.imgs {
+  max-width: 100px; 
+  max-height: 100px; 
+  width: auto;
+  height: auto;
+}
+
+.row{ display: flex; }
+
+.cat{ width: 200px;
+      height: 200px;
+      object-fit:cover;}
+
+.ftr{
+  background-color: rgb(9, 19, 69);
+  -webkit-text-fill-color: aliceblue;
+}
+
+.card-body{
+  background-color: rgb(9, 19, 69);
+  color: aliceblue;
+}

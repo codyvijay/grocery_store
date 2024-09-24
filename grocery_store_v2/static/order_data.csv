@@ -1,0 +1,5 @@
+orderID,product_name,product_code,order_no,quantity,description,price,unit,time,user_ID
+63,Tomato,pro27,1,2,tomato vegetables,64,Rs./Kg,2023-10-23 14:01:58.330187,12
+64,Onion,pro28,1,1,onion vegetables,30,Rs./Kg,2023-10-23 14:01:58.330187,12
+65,Banana,pro30,1,2,banana fruits,60,Rs./Dozen,2023-10-23 14:01:58.330187,12
+69,Corn Flakes,pro41,2,1,corn flakes breakfast,105,Rs./Unit,2023-10-26 10:00:50.937012,57
